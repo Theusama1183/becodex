@@ -1,0 +1,26 @@
+# Core Framework
+fastapi
+uvicorn
+
+# Database
+motor
+pymongo
+
+# Security & Authentication
+python-jose
+python-dotenv
+httpx
+
+# ML & AI
+torch
+transformers
+accelerate
+
+# Payments
+stripe
+
+# Utilities
+python-multipart
+pydantic-settings
+pydantic
+uuid
